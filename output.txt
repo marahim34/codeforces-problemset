@@ -1,0 +1,4 @@
+word
+l12n
+i20n
+p45s
